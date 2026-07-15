@@ -1,3 +1,3 @@
 # This is my profile
-##This is subheading
-###This is third heading
+## This is subheading
+### This is third heading
