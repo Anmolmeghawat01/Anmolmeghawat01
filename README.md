@@ -65,7 +65,8 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
  ```java
 while (alive) {
     code();
-    lift();
+    hit_the_gym();
+    lift_heavy();
     ride();
     watchCinema();
     repeat();
