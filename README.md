@@ -63,19 +63,21 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
 
 -  
  ```cpp
-// About Me
-while (alive) {
-    Learn();
-    Build();
-    Commit();
-    LiftHeavy();
-    RideFurther();
-    WatchGreatCinema();
-    Explore();
-    Repeat();
-}
-```
+```javascript
+const Anmol = {
+  role: "Developer",
+  Achievement: "🥈 Indore District Powerlifting Silver Medalist",
+  Hobbies: [
+    "🏋️ Powerlifting",
+    "🎬 Cinema",
+    "🏍️ Bike Rides",
+    "🌍 Exploring New Places"
+  ],
+  motto: "Code. Lift. Ride. Repeat."
+};
 
+console.log(pritam);
+```
 ## 💡 Favorite Quote
 
 > " Code is Fuel."
