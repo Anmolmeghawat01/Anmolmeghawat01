@@ -74,7 +74,7 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
 - 🏍️ Enjoying long rides as a biketrovert.
 - 🌍 Exploring new cities and places like a Wonderlust
 
-##🏆 Achievements
+##🏆## Achievements
 - 🥈 Silver Medalist - Madhya Pradesh Powerlifting Championship  
 - 🏆 Gold Medalist – Indore District Powerlifting Championship 
 - 🥈 Silver Medalist - Indore District Weightlifting Championship
