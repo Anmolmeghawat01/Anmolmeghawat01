@@ -60,9 +60,21 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
 
 - GitHub: https://github.com/Anmolmeghawat0
 -  Email: fxanmol11@gmail.com
-## <p align="center">
-Code. Lift. Ride. Repeat.
-</p>
+
+-  
+ ```cpp
+// About Me
+while (alive) {
+    Learn();
+    Build();
+    Commit();
+    LiftHeavy();
+    RideFurther();
+    WatchGreatCinema();
+    Explore();
+    Repeat();
+}
+```
 
 ## 💡 Favorite Quote
 
