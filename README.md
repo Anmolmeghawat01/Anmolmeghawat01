@@ -62,21 +62,15 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
 -  Email: fxanmol11@gmail.com
 
 -  
- ```cpp
-```javascript
-const Anmol = {
-  role: "Developer",
-  Achievement: "🥈 Indore District Powerlifting Silver Medalist",
-  Hobbies: [
-    "🏋️ Powerlifting",
-    "🎬 Cinema",
-    "🏍️ Bike Rides",
-    "🌍 Exploring New Places"
-  ],
-  motto: "Code. Lift. Ride. Repeat."
-};
-
-console.log(pritam);
+ ```java
+while (alive) {
+    code();
+    lift();
+    ride();
+    watchCinema();
+    repeat();
+}
+```
 ```
 ## 💡 Favorite Quote
 
