@@ -58,16 +58,27 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your.email@example.com
+- GitHub: https://github.com/Anmolmeghawat0
+-  Email: fxanmol11@gmail.com
 
 ---
 
 ## 💡 Favorite Quote
 
-> "Stay curious. Keep building. Never stop learning."
+> " Code is Fuel."
+> 
+ 
+## Outside of coding, you'll usually find me:
+- 🏋️ Chasing new PRs in powerlifting.
+- 🎬 Exploring films as a passionate cinephile.
+- 🏍️ Enjoying long rides as a biketrovert.
+- 🌍 Exploring new cities and places like a Wonderlust
 
+##🏆 Achievements
+- 🥈 Silver Medalist - Madhya Pradesh Powerlifting Championship  
+- 🏆 Gold Medalist – Indore District Powerlifting Championship 
+- 🥈 Silver Medalist - Indore District Weightlifting Championship
+- 💪 Passionate about strength training, discipline, and continuous self-improvement.
 ---
 
 ⭐ Thanks for visiting my profile!
