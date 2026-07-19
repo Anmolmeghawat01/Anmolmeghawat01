@@ -89,6 +89,6 @@ while (alive) {
 - 🏆 Gold Medalist – Indore District Powerlifting Championship 
 - 🥈 Silver Medalist - Indore District Weightlifting Championship
 - 💪 Passionate about strength training, discipline, and continuous self-improvement.
----
+--
 
 ⭐ ## Thanks for visiting my profile!
