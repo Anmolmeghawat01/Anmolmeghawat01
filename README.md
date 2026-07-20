@@ -17,7 +17,7 @@
    • Social media graphics
    • Resume & portfolio design
 
-🎯 Goal:
+🎯# Goal:
 Become a skilled Software Engineer and contribute to impactful open-source projects.
 
 ---
