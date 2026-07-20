@@ -87,7 +87,7 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
 
 ---
 
-# 🎯 Outside of Coding, You'll Usually Find Me
+ ## 🎯 Outside of Coding, You'll Usually Find Me
 
 - 🏋️ Chasing new PRs in powerlifting.
 - 🎬 Exploring films as a passionate cinephile.
