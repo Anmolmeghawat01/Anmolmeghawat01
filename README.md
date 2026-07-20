@@ -72,12 +72,12 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
  ```java
 
 ## while (alive) {
-    code();
-    hit_the_gym();
-    lift_heavy();
-    ride();
-    watchCinema();
-    repeat();
+    Code();
+    Hit the Gym();
+    Lift heavy();
+    Ride on endless Highways();
+    Watch Cinema();
+    Repeat();
 }
 ```
 ```
