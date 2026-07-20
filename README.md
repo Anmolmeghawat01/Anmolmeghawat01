@@ -10,8 +10,7 @@
 - Web Development
 - Python
 - Git & GitHub
-- # Intermidiate at:
-- 🎨 Canva
+- #  Canva🎨:
    • Designing presentations (PPTs)
    • Creating responsive websites using Canva
    • Posters, flyers & banners
