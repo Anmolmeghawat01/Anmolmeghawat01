@@ -5,10 +5,17 @@
 💻 Passionate about technology, programming, and problem-solving.
 
 🌱 Currently learning:
+- Canva 
 - Data Structures & Algorithms
 - Web Development
 - Python
 - Git & GitHub
+- 🎨 Canva
+   • Designing presentations (PPTs)
+   • Creating responsive websites using Canva
+   • Posters, flyers & banners
+   • Social media graphics
+   • Resume & portfolio design
 
 🎯 Goal:
 Become a skilled Software Engineer and contribute to impactful open-source projects.
