@@ -74,22 +74,26 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
 }
 ```
 ```
-## Favorite Quote
+# 💬 Favorite Quote
 
-> " Code is Fuel."
-> 
- 
-## Outside of coding, you'll usually find me:
+> **"Code is Fuel."**
+
+---
+
+# 🎯 Outside of Coding, You'll Usually Find Me
+
 - 🏋️ Chasing new PRs in powerlifting.
 - 🎬 Exploring films as a passionate cinephile.
 - 🏍️ Enjoying long rides as a biketrovert.
-- 🌍 Exploring new cities and places like a Wonderlust
+- 🌍 Exploring new cities and places like a wanderlust.
 
-##🏆 Achievements**
-- 🥈 Silver Medalist - Madhya Pradesh Powerlifting Championship  
-- 🏆 Gold Medalist – Indore District Powerlifting Championship 
-- 🥈 Silver Medalist - Indore District Weightlifting Championship
+---
+
+# 🏆 Achievements
+
+- 🥈 **Silver Medalist** – Madhya Pradesh Powerlifting Championship
+- 🏆 **Gold Medalist** – Indore District Powerlifting Championship
+- 🥈 **Silver Medalist** – Indore District Weightlifting Championship
 - 💪 Passionate about strength training, discipline, and continuous self-improvement.
---
 
 ⭐ ## Thanks for visiting my profile!
