@@ -103,4 +103,4 @@ Become a skilled Software Engineer and contribute to impactful open-source proje
 - 🥈 **Silver Medalist** – Indore District Weightlifting Championship
 - 💪 Passionate about strength training, discipline, and continuous self-improvement.
 
-⭐ ## Thanks for visiting my profile!
+ # Thanks for Visting My Profile 
